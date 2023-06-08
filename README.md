@@ -21,8 +21,8 @@ Sentiment analysis done with VADER , TextBlob
 
 Summary Report:
 
-[Click here to interact with the PowerBi Report](https://app.powerbi.com/view?r=eyJrIjoiOTI0MzY3NTYtNTg0Ny00ODc5LWFmMzMtZDk2NDc5OTgxODAyIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
+[Click here to interact with the PowerBi Report (it'll open up in a new page)](https://app.powerbi.com/view?r=eyJrIjoiOTI0MzY3NTYtNTg0Ny00ODc5LWFmMzMtZDk2NDc5OTgxODAyIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
 
 Preview the report here if you don't want to follow the link:
 
-![](https://github.com/JadePablo/tiktok_use_analysis/blob/main/tiktok_use_visualisation.pdf)
+![View PDF](https://github.com/JadePablo/tiktok_use_analysis/blob/main/tiktok_use_visualisation.pdf)
