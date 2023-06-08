@@ -8,7 +8,7 @@ Details of:
 - Web Scraping
 - data collection
 - data cleaning / transformation
-- 
+
 can be found in the notebook. In that order.
 
 Visualisation: Power Bi
