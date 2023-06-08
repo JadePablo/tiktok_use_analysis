@@ -21,4 +21,8 @@ Sentiment analysis done with VADER , TextBlob
 
 Summary Report:
 
-<iframe width="600" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiOTI0MzY3NTYtNTg0Ny00ODc5LWFmMzMtZDk2NDc5OTgxODAyIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[Click here to interact with the PowerBi Report](https://app.powerbi.com/view?r=eyJrIjoiOTI0MzY3NTYtNTg0Ny00ODc5LWFmMzMtZDk2NDc5OTgxODAyIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
+
+Preview the report here if you don't want to follow the link:
+
+![](
