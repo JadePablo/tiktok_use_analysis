@@ -25,4 +25,4 @@ Summary Report:
 
 Preview the report here if you don't want to follow the link:
 
-![](
+![](https://github.com/JadePablo/tiktok_use_analysis/blob/main/tiktok_use_visualisation.pdf)
