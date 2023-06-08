@@ -18,11 +18,11 @@ can be found in the notebook. In that order.
 
 Visualisation: Power Bi
 
-Scraping done with the 'requests' library.
+Scraping: 'requests' library.
 
-Data Collection / Cleaning / Transformation done with pandas.
+Data Collection / Cleaning / Transformation: pandas.
 
-Sentiment analysis done with VADER , TextBlob
+Sentiment analysis: VADER , TextBlob
 
 ## Summary Report:
 
